@@ -8,7 +8,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@trbn/jsoncanvas": "^1.0.6",
     "cookie": "^0.5.0",
     "dotenv": "^16.0.3",
     "mirotone": "5",
